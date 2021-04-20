@@ -1,0 +1,1 @@
+hunter_config(rocksdb VERSION 5.14.2 CMAKE_ARGS WITH_GFLAGS=OFF)
