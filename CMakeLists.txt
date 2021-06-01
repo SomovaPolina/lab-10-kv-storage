@@ -45,6 +45,7 @@ add_library(${PROJECT_NAME} STATIC
         include/hashData.hpp
         sources/hashData.cpp
         include/ThreadPool.h
+        include/picosha2.h
         )
 
 add_executable(demo

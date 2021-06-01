@@ -8,7 +8,7 @@
 #include <boost/log/utility/setup/console.hpp>
 #include <boost/log/utility/setup/file.hpp>
 #include <boost/program_options.hpp>
-#include <dbWrapper.hpp>
+#include <DBwrapper.hpp>
 
 #include "hashData.hpp"
 #include "iostream"
